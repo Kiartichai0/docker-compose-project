@@ -4,4 +4,4 @@
 ### execute docker-compose
 > docker-compose up
 ### clear everythings
-> docker prune
+> docker system prune
